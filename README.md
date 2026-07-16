@@ -13,7 +13,6 @@
 
 ---
 
-### 💻 // PROTOCOLO__DE__PROGRAMACIÓN (TECH_STACK)
 
 <br>
 
@@ -35,8 +34,6 @@
 <br>
 
 ---
-
-### 📡 // REGISTRO__DE__ACTIVIDAD
 
 ```👁‍🗨 [MONITORING NETWORK COMMITS...] ```
 

@@ -1,28 +1,31 @@
 <div align="center">
 
-<!-- BANNER CYBERPUNK DE ENCABEZADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b2cbf,100:f72585&height=200&section=header&text=Williams%20Rafael%20Sánchez%20Acosta&fontSize=35&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Estudiante%20de%20Sistemas%20%7C%20Desarrollador%20de%20Software&descAlignY=62&descAlign=50" width="100%" alt="Header Banner"/>
+<!-- HEADER ANIMADO CYBERPUNK / HUD NEÓN -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5d4,40:0f051d,60:0f051d,100:f72585&height=220&section=header&text=NEURAL_INTERFACE_v2.0.77&fontSize=16&fontColor=00f5d4&fontAlignY=15&animation=twinkling"/>
 
-<!-- BADGES DE CONTACTO / PERFIL -->
+<h1 align="center">
+  <code>&lt;/&gt;</code> WILLIAMS RAFAEL SÁNCHEZ ACOSTA <code>&lt;/&gt;</code>
+</h1>
+
+<p align="center">
+  <b>SYSTEM_OPERATOR // SOFTWARE_DEVELOPER // GAME_DEV_INTENT</b>
+</p>
+
+<!-- BADGES DE REDES Y CONTACTO -->
 <a href="mailto:williams_sanchez@ucne.edu.do">
-  <img src="https://img.shields.io/badge/EMAIL-williams__sanchez%40ucne.edu.do-f72585?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAIL_LINK-00F5D4?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 <a href="https://github.com/Williamsanchez056?tab=followers">
-  <img src="https://img.shields.io/github/followers/Williamsanchez056?style=for-the-badge&color=7b2cbf&label=FOLLOWERS&logo=github"/>
+  <img src="https://img.shields.io/github/followers/Williamsanchez056?style=for-the-badge&color=F72585&label=NODES_CONNECTED&logo=github"/>
 </a>
 
 </div>
 
 <br/>
 
-### ⚡ `> WHOAMI` (Sobre mí)
-
-```console
-$ sysinfo --user "Williams Sanchez"
---------------------------------------------------------------------------------
-> ESTUDIO:    Universidad Católica Nordestana (UCNE)
-> UBICACIÓN:  San Francisco de Macorís, República Dominicana
-> PROYECTO:   Desarrollando un Roguelike Indie con temática de casino 
-> ENFOQUE:    Arquitectura de Software & Bases de Datos
-> FILOSOFÍA:  "El esfuerzo, la constancia y el aprendizaje diario son el camino."
---------------------------------------------------------------------------------
+```sys
+===================================================================================
+[SYSTEM_LOG]: INITIALIZING SYSTEM MEMORY... OK
+[SYSTEM_LOG]: LOCATION: SAN FRANCISCO DE MACORÍS, REPUBLICA DOMINICANA
+[SYSTEM_LOG]: ACADEMIC_NODE: UNIVERSIDAD CATÓLICA NORDESTANA (UCNE)
+===================================================================================

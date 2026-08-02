@@ -1,74 +1,135 @@
 <div align="center">
 
-# ⚡ WILLIAMS RAFAEL SANCHEZ ACOSTA ⚡
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=1000&color=FF00FF&center=true&vCenter=true&width=900&lines=⚡+WILLY+⚡;FULL+STACK+DEVELOPER;REACT+•+SUPABASE+•+VERCEL;BUILDING+THE+FUTURE"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cyberpunk+Developer;Full+Stack+Developer;React+%7C+Supabase+%7C+Vercel;Always+Learning+New+Technologies" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=WILLY&fontSize=70&fontColor=00F5FF&color=0:0d1117,50:2b1055,100:ff00ff"/>
 
 </div>
 
 ---
 
-```txt
-██████╗██╗   ██╗██████╗ ███████╗██████╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+# > SYSTEM STATUS
+
+```yaml
+STATUS: ONLINE
+
+NAME: Williams Rafael Sanchez Acosta
+
+ROLE: Full Stack Developer
+
+LOCATION: Dominican Republic 🇩🇴
+
+FOCUS: Web Development
+
+PROJECT: SistemaFactura
+
+MODE: WILLY
 ```
-
-## 👨‍💻 Sobre mí
-
-💠 Estudiante de Ingeniería en Sistemas (UCNE)
-
-💠 Desarrollador Full Stack
-
-💠 Actualmente construyendo **SistemaFactura**
-
-💠 React • Supabase • Vercel
-
-💠 Siempre aprendiendo nuevas tecnologías
 
 ---
 
-# ⚙️ Tecnologías
+# > ABOUT_ME
+
+```cpp
+class Willy {
+
+public:
+
+string role = "Full Stack Developer";
+
+string university = "UCNE";
+
+string stack = "React | Supabase | Vercel";
+
+string project = "SistemaFactura";
+
+bool coffee = true;
+
+bool learning = true;
+
+};
+```
+
+---
+
+# > TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,supabase,git,github,vscode,vercel,firebase,mysql"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,supabase,vercel,html,css,tailwind,mysql,firebase,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 🚀 Proyecto Principal
+# > SISTEMAFACTURA
 
-## SistemaFactura
+```text
+██████████████████████████████████████████
 
-Aplicación web para:
+STATUS........ONLINE
 
-- 📄 Crear facturas
-- 👥 Administrar clientes
-- 📦 Gestionar productos
-- 📊 Reportes
-- ☁️ Base de datos con Supabase
+CLIENTS.......YES
+
+PRODUCTS......YES
+
+REPORTS.......YES
+
+SUPABASE......CONNECTED
+
+REACT.........RUNNING
+
+██████████████████████████████████████████
+```
 
 ---
 
-# 🌐 Redes
+# > GITHUB
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Williamsanchez056&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamsanchez056&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Williamsanchez056&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# > CONTACT
 
 <p align="center">
 
 <a href="https://factura-app-willy.vercel.app">
-<img src="https://img.shields.io/badge/SistemaFactura-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SistemaFactura-FF00FF?style=for-the-badge&logo=vercel"/>
+
 </a>
 
 <a href="https://github.com/Williamsanchez056">
+
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+
 </a>
 
-<a href="https://www.tiktok.com/@soywilly056">
-<img src="https://img.shields.io/badge/TikTok-ff00ff?style=for-the-badge&logo=tiktok"/>
+<a href="https://tiktok.com/@soywilly056">
+
+<img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok"/>
+
+</a>
+
+<a href="https://steamcommunity.com/id/Itswilly056">
+
+<img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam"/>
+
 </a>
 
 </p>
@@ -77,8 +138,16 @@ Aplicación web para:
 
 <div align="center">
 
-### 「 Code • Create • Innovate 」
+# ⚡ WILLY MODE ACTIVATED ⚡
 
-⚡ Welcome to my Cyberpunk World ⚡
+```text
+> INITIALIZING...
+
+█████████████████████ 100%
+
+READY.
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F5FF&center=true&width=700&lines=CODE.;BUILD.;LEARN.;REPEAT."/>
 
 </div>

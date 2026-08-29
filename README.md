@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Williamsanchez056-181717?style=for-the-badge&logo=github)](https://github.com/Williamsanchez056)
 [![TikTok](https://img.shields.io/badge/TikTok-@soywilly056-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@soywilly056)
 [![Instagram](https://img.shields.io/badge/Instagram-@soywilly056-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soywilly056)
-[![Steam](https://img.shields.io/badge/Steam-Perfil-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ltswilly056/)
+[![Steam](https://img.shields.io/badge/Steam-Perfil-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/itswilly056/)
 
 </div>
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hola, soy Williams Rafael Sanchez Acosta 👋
-### *Estudiante de Ingenieria de Sistemas & Desarrollador Full Stack*
+### *Estudiante de Ingeniería de Sistemas & Desarrollador Full Stack*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnologia;Creando+soluciones+web+y+de+software)](https://git.io/typing-svg)
 
@@ -16,20 +16,20 @@
 
 ---
 
-### 👨‍💻 Sobre Mi
+### 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingenieria de Sistemas** en la **Universidad Catolica Nordestana (UCNE)**.
-- 💡 Enfocado en el desarrollo de aplicaciones web completas, gestion de bases de datos y arquitectura de software.
-- 🚀 Comprometido con el aprendizaje continuo, las buenas practicas y el codigo limpio.
-- 🎯 Proyecto destacado reciente: [Sistema de Facturacion Mejorado](https://sistema-facturacion-peach.vercel.app/).
+- 🎓 Estudiante de **Ingenieria de Sistemas** en la **Universidad Católica Nordestana (UCNE)**.
+- 💡 Enfocado en el desarrollo de aplicaciones web completas, gestión de bases de datos y arquitectura de software.
+- 🚀 Comprometido con el aprendizaje continuo, las buenas prácticas y el código limpio.
+- 🎯 Proyecto destacado reciente: [Sistema de Facturación Mejorado](https://sistema-facturacion-peach.vercel.app/).
 
 ---
 
-### 🛠️ Stack Tecnologico & Herramientas
+### 🛠️ Stack Tecnológico & Herramientas
 
 <div align="center">
 
-#### Lenguajes de Programacion
+#### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 Estadisticas de GitHub
+### 📊 Estadísticas de GitHub
 
 <div align="center">
 

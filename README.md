@@ -1,72 +1,129 @@
 <div align="center">
 
-# Hola, soy Williams Rafael Sanchez Acosta 👋
-### *Estudiante de Ingeniería de Sistemas & Desarrollador Full Stack*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,45:7B2FFF,100:FF007F&height=230&section=header&text=WILLIAMS%20SANCHEZ&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20SYSTEMS%20ENGINEERING&descAlignY=57&descSize=17" alt="Cyberpunk header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnologia;Creando+soluciones+web+y+de+software)](https://git.io/typing-svg)
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Williamsanchez056-181717?style=for-the-badge&logo=github)](https://github.com/Williamsanchez056)
-[![TikTok](https://img.shields.io/badge/TikTok-@soywilly056-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@soywilly056)
-[![Instagram](https://img.shields.io/badge/Instagram-@soywilly056-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/soywilly056)
-[![Steam](https://img.shields.io/badge/Steam-Perfil-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/itswilly056/)
-
-</div>
-
----
-
-### 👨‍💻 Sobre mí
-
-- 🎓 Estudiante de **Ingenieria de Sistemas** en la **Universidad Católica Nordestana (UCNE)**.
-- 💡 Enfocado en el desarrollo de aplicaciones web completas, gestión de bases de datos y arquitectura de software.
-- 🚀 Comprometido con el aprendizaje continuo, las buenas prácticas y el código limpio.
-- 🎯 Proyecto destacado reciente: [Sistema de Facturación Mejorado](https://sistema-facturacion-peach.vercel.app/).
-
----
-
-### 🛠️ Stack Tecnológico & Herramientas
-
-<div align="center">
-
-#### Lenguajes de Programación
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### Backend, Base de Datos & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Williamsanchez056&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamsanchez056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=820&lines=%3E+SYSTEM+ONLINE...;%3E+CODE+%E2%80%A2+BUILD+%E2%80%A2+DEPLOY+%E2%80%A2+REPEAT;%3E+Building+the+future+one+commit+at+a+time" alt="Cyberpunk typing animation" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Williamsanchez056&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+<img src="https://komarev.com/ghpvc/?username=Williamsanchez056&label=PROFILE%20SCANS&color=ff007f&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117" alt="System online" />
+<img src="https://img.shields.io/badge/LOCATION-DOMINICAN%20REPUBLIC-7B2FFF?style=for-the-badge&labelColor=0D1117" alt="Dominican Republic" />
+
+</div>
+
+---
+
+## `> INITIALIZING USER PROFILE...`
+
+```bash
+willy@github:~$ whoami
+
+> Williams Rafael Sanchez Acosta
+> Estudiante de Ingeniería en Sistemas @ UCNE
+> Full Stack Developer
+> Construyo aplicaciones web, sistemas de gestión y soluciones digitales.
+> Objetivo: transformar ideas en software seguro, útil y escalable.
+
+willy@github:~$ motto
+> "KEEP CODING. KEEP GROWING. BUILD THE FUTURE."
+```
+
+<div align="center">
+
+### `[ CONNECT WITH ME ]`
+
+<a href="https://github.com/Williamsanchez056">
+  <img src="https://img.shields.io/badge/GITHUB-WILLIAMSANCHEZ056-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+</a>
+<a href="https://www.tiktok.com/@soywilly056">
+  <img src="https://img.shields.io/badge/TIKTOK-@SOYWILLY056-FF007F?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117" alt="TikTok" />
+</a>
+<a href="https://instagram.com/soywilly056">
+  <img src="https://img.shields.io/badge/INSTAGRAM-@SOYWILLY056-7B2FFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" />
+</a>
+<a href="https://steamcommunity.com/id/itswilly056/">
+  <img src="https://img.shields.io/badge/STEAM-WILLY-00F7FF?style=for-the-badge&logo=steam&logoColor=white&labelColor=0D1117" alt="Steam" />
+</a>
+
+</div>
+
+---
+
+## `> TECH ARSENAL`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,java,php,react,vite,html,css,tailwind,nodejs,supabase,postgres,mysql,firebase,git,github,vercel,vscode,figma&perline=11&theme=dark" alt="Technology stack" />
+
+<br/><br/>
+
+`FRONTEND` **React · Vite · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS**  
+`BACKEND` **Node.js · Supabase · PostgreSQL · MySQL · Firebase**  
+`TOOLS` **Git · GitHub · Vercel · VS Code · Figma**
+
+</div>
+
+---
+
+## `> FEATURED MISSION`
+
+<div align="center">
+
+<a href="https://github.com/Williamsanchez056/Sistema-De-Facturacion-Mejorado">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=Williamsanchez056&repo=Sistema-De-Facturacion-Mejorado&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF007F&text_color=FFFFFF" alt="Sistema de Facturación Mejorado" />
+</a>
+
+### WILLY · SISTEMA DE FACTURACIÓN
+
+Aplicación para administrar empleados, pagos de nómina y operaciones de facturación.  
+Construida con **React + Vite + Supabase + PostgreSQL**, con autenticación y seguridad mediante RLS.
+
+<a href="https://sistema-facturacion-peach.vercel.app/">
+  <img src="https://img.shields.io/badge/LAUNCH%20LIVE%20SYSTEM-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live demo" />
+</a>
+<a href="https://github.com/Williamsanchez056/Sistema-De-Facturacion-Mejorado">
+  <img src="https://img.shields.io/badge/ACCESS%20SOURCE%20CODE-FF007F?style=for-the-badge&logo=github&logoColor=white" alt="Source code" />
+</a>
+
+</div>
+
+---
+
+## `> SYSTEM TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Williamsanchez056&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF007F&text_color=FFFFFF&ring_color=7B2FFF" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamsanchez056&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Most used languages" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Williamsanchez056&hide_border=true&background=0D1117&ring=FF007F&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Williamsanchez056&bg_color=0D1117&color=00F7FF&line=FF007F&point=FFFFFF&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>⭐️ Gracias por visitar mi perfil. Siempre abierto a colaborar en proyectos innovadores.</sub>
+
+### `[ CURRENT OBJECTIVE ]`
+
+**APRENDER MÁS · CREAR MEJOR · GENERAR IMPACTO**
+
+```
+┌──────────────────────────────────────────────────────┐
+│  CODE  •  BUILD  •  DEPLOY  •  REPEAT              │
+│  USER: WILLIAMSANCHEZ056      STATUS: ONLINE        │
+└──────────────────────────────────────────────────────┘
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF007F,50:7B2FFF,100:00F7FF&height=120&section=footer" alt="Cyberpunk footer" />
+
 </div>

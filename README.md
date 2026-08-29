@@ -45,3 +45,28 @@
 #### Backend, Base de Datos & Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Estadisticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Williamsanchez056&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamsanchez056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Williamsanchez056&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐️ Gracias por visitar mi perfil. Siempre abierto a colaborar en proyectos innovadores.</sub>
+</div>
